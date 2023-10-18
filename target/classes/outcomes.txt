@@ -1,0 +1,180 @@
+Land Transfer: Colombia → Peru 
+Land Transfer: Argentina → Peru 
+Land Transfer: Brazil → Peru 
+Land Transfer: Bolivia → Peru 
+Land Transfer: Brazil → Argentina 
+Land Transfer: Bolivia → Argentina 
+Land Transfer: Peru → Argentina 
+Land Transfer: Argentina → Bolivia 
+Land Transfer: Brazil → Bolivia 
+Land Transfer: Peru → Bolivia 
+Land Transfer: Colombia → Brazil 
+Land Transfer: Argentina → Brazil 
+Land Transfer: Bolivia → Brazil 
+Land Transfer: Peru → Brazil 
+Land Transfer: C. America → Colombia 
+Land Transfer: Brazil → Colombia 
+Land Transfer: Peru → Colombia 
+Land Transfer: Colombia → C. America 
+Land Transfer: Mexico → C. America 
+Land Transfer: C. America → Mexico 
+Land Transfer: USA → Mexico 
+Land Transfer: Mexico → USA 
+Land Transfer: Canada → USA 
+Land Transfer: USA → Canada 
+Land Transfer: France → UK 
+Land Transfer: France → Spain 
+Land Transfer: Central Europe → France 
+Land Transfer: Spain → France 
+Land Transfer: Germany → France 
+Land Transfer: UK → France 
+Land Transfer: Italy → France 
+Land Transfer: Central Europe → Italy 
+Land Transfer: France → Italy 
+Land Transfer: Balkan States → Italy 
+Land Transfer: Central Europe → Balkan States 
+Land Transfer: Turkey → Balkan States 
+Land Transfer: Italy → Balkan States 
+Land Transfer: France → Central Europe 
+Land Transfer: Ukraine → Central Europe 
+Land Transfer: Balkan States → Central Europe 
+Land Transfer: Germany → Central Europe 
+Land Transfer: Poland → Central Europe 
+Land Transfer: Italy → Central Europe 
+Land Transfer: Central Europe → Germany 
+Land Transfer: France → Germany 
+Land Transfer: Poland → Germany 
+Land Transfer: Central Europe → Poland 
+Land Transfer: Ukraine → Poland 
+Land Transfer: Baltic States → Poland 
+Land Transfer: Germany → Poland 
+Land Transfer: Sweden → Norway 
+Land Transfer: Russia → Norway 
+Land Transfer: Finland → Norway 
+Land Transfer: Norway → Sweden 
+Land Transfer: Finland → Sweden 
+Land Transfer: Sweden → Finland 
+Land Transfer: Norway → Finland 
+Land Transfer: Russia → Finland 
+Land Transfer: Ukraine → Baltic States 
+Land Transfer: Russia → Baltic States 
+Land Transfer: Poland → Baltic States 
+Land Transfer: Turkey → Russia 
+Land Transfer: Kazakhstan → Russia 
+Land Transfer: Ukraine → Russia 
+Land Transfer: Baltic States → Russia 
+Land Transfer: Norway → Russia 
+Land Transfer: China → Russia 
+Land Transfer: Korea → Russia 
+Land Transfer: Finland → Russia 
+Land Transfer: Iran → Russia 
+Land Transfer: Central Europe → Ukraine 
+Land Transfer: Baltic States → Ukraine 
+Land Transfer: Russia → Ukraine 
+Land Transfer: Poland → Ukraine 
+Land Transfer: Balkan States → Turkey 
+Land Transfer: Russia → Turkey 
+Land Transfer: Iraq → Turkey 
+Land Transfer: Middle east → Turkey 
+Land Transfer: Iran → Turkey 
+Land Transfer: Algeria → Morocco 
+Land Transfer: West Africa → Morocco 
+Land Transfer: Morocco → West Africa 
+Land Transfer: Algeria → West Africa 
+Land Transfer: Libya → West Africa 
+Land Transfer: Central Africa → West Africa 
+Land Transfer: Morocco → Algeria 
+Land Transfer: West Africa → Algeria 
+Land Transfer: Libya → Algeria 
+Land Transfer: Sudan → Libya 
+Land Transfer: Algeria → Libya 
+Land Transfer: Egypt → Libya 
+Land Transfer: West Africa → Libya 
+Land Transfer: Central Africa → Libya 
+Land Transfer: East Africa → Central Africa 
+Land Transfer: Sudan → Central Africa 
+Land Transfer: Angola → Central Africa 
+Land Transfer: West Africa → Central Africa 
+Land Transfer: Libya → Central Africa 
+Land Transfer: East Africa → Angola 
+Land Transfer: South Africa → Angola 
+Land Transfer: Central Africa → Angola 
+Land Transfer: East Africa → South Africa 
+Land Transfer: Angola → South Africa 
+Land Transfer: Botswana → South Africa 
+Land Transfer: Zimbabwe → South Africa 
+Land Transfer: East Africa → Botswana 
+Land Transfer: South Africa → Botswana 
+Land Transfer: Zimbabwe → Botswana 
+Land Transfer: East Africa → Zimbabwe 
+Land Transfer: South Africa → Zimbabwe 
+Land Transfer: Botswana → Zimbabwe 
+Land Transfer: South Africa → East Africa 
+Land Transfer: Saudi Arabia → East Africa 
+Land Transfer: Sudan → East Africa 
+Land Transfer: Angola → East Africa 
+Land Transfer: Botswana → East Africa 
+Land Transfer: Central Africa → East Africa 
+Land Transfer: Zimbabwe → East Africa 
+Land Transfer: East Africa → Sudan 
+Land Transfer: Egypt → Sudan 
+Land Transfer: Libya → Sudan 
+Land Transfer: Central Africa → Sudan 
+Land Transfer: Saudi Arabia → Egypt 
+Land Transfer: Sudan → Egypt 
+Land Transfer: Libya → Egypt 
+Land Transfer: Middle east → Egypt 
+Land Transfer: Turkey → Middle east 
+Land Transfer: Saudi Arabia → Middle east 
+Land Transfer: Egypt → Middle east 
+Land Transfer: Iraq → Middle east 
+Land Transfer: East Africa → Saudi Arabia 
+Land Transfer: Egypt → Saudi Arabia 
+Land Transfer: Iraq → Saudi Arabia 
+Land Transfer: Middle east → Saudi Arabia 
+Land Transfer: Iran → Saudi Arabia 
+Land Transfer: Turkey → Iraq 
+Land Transfer: Saudi Arabia → Iraq 
+Land Transfer: Middle east → Iraq 
+Land Transfer: Iran → Iraq 
+Land Transfer: Turkey → Iran 
+Land Transfer: Saudi Arabia → Iran 
+Land Transfer: Afghanistan → Iran 
+Land Transfer: Russia → Iran 
+Land Transfer: Pakistan → Iran 
+Land Transfer: Iraq → Iran 
+Land Transfer: Central Asia → Iran 
+Land Transfer: China → Kazakhstan 
+Land Transfer: Russia → Kazakhstan 
+Land Transfer: Central Asia → Kazakhstan 
+Land Transfer: Kazakhstan → Central Asia 
+Land Transfer: Afghanistan → Central Asia 
+Land Transfer: China → Central Asia 
+Land Transfer: Pakistan → Central Asia 
+Land Transfer: Iran → Central Asia 
+Land Transfer: China → Afghanistan 
+Land Transfer: Pakistan → Afghanistan 
+Land Transfer: Central Asia → Afghanistan 
+Land Transfer: Iran → Afghanistan 
+Land Transfer: India → Pakistan 
+Land Transfer: Afghanistan → Pakistan 
+Land Transfer: China → Pakistan 
+Land Transfer: Central Asia → Pakistan 
+Land Transfer: Iran → Pakistan 
+Land Transfer: S. E Asia → India 
+Land Transfer: China → India 
+Land Transfer: Pakistan → India 
+Land Transfer: S. E Asia → China 
+Land Transfer: India → China 
+Land Transfer: Kazakhstan → China 
+Land Transfer: Afghanistan → China 
+Land Transfer: Russia → China 
+Land Transfer: Pakistan → China 
+Land Transfer: Korea → China 
+Land Transfer: Central Asia → China 
+Land Transfer: China → Korea 
+Land Transfer: Russia → Korea 
+Land Transfer: India → S. E Asia 
+Land Transfer: Indonesia → S. E Asia 
+Land Transfer: China → S. E Asia 
+Land Transfer: S. E Asia → Indonesia 
